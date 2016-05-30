@@ -1,2 +1,2 @@
 # stormpath
-User Authentication  using flask
+Creating a flask application using stormpath perform authentication services.
